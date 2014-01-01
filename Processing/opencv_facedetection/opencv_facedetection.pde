@@ -1,3 +1,5 @@
+// Please check http://ubaa.net/shared/processing/opencv/ for OPENCV 4 Processing installation instructions
+// - Ca3rine
 import hypermedia.video.*;
 import java.awt.Rectangle;
 
