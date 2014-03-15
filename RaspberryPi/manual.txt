@@ -1,0 +1,12 @@
+1. Get Raspbian at http://www.raspberrypi.org/downloads
+2. Get SD Formatter 4.0 for mac at https://www.sdcard.org/downloads/formatter_4/eula_mac/
+3. Put image onto SD card using ApplePi Baker at http://www.tweaking4all.com/hardware/raspberry-pi/macosx-apple-pi-baker/
+4. Insert SD card into Pi.
+5. Connect Pi to power source using MicroUSB.
+6. Connect Pi to router using ethernet cable.
+7. Find Pi's IP on router.
+8. SSH to Pi with pi@192.168.1.x (pi@ip). First time password please check http://thepihut.com/pages/quick-start-guide
+
+Rest check http://computers.tutsplus.com/tutorials/take-control-of-your-raspberry-pi-using-your-mac-pc-ipad-or-phone--mac-54603
+
+VNC client for mac: http://sourceforge.net/projects/cotvnc/
