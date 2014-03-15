@@ -27,7 +27,7 @@ Running Processing on Raspberry pi with Serial Arduino
 http://scruss.com/blog/2014/01/07/processing-2-1-oracle-java-raspberry-pi-serial-arduino-%E2%98%BA/
 
 ########################################################
-USB Webcam on Pi
+USB Webcam detection on Pi
 http://www.elecfreaks.com/6084.html
 
 ########################################################
@@ -35,3 +35,7 @@ Problem to solve:
 jna support on Pi
 https://github.com/twall/jna
 http://www.eclipse.org/forums/index.php/t/469145/
+########################################################
+USB Webcam and Pi with OpenCV
+
+http://www.raspberrypi.org/archives/tag/opencv
