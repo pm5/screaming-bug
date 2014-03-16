@@ -1,0 +1,16 @@
+useful tools on Raspberry Pi
+
+########################################################
+Installed by Pei
+
+guvcview - for video
+apt-get update
+apt-get upgrade
+tar
+unzip
+cnamke
+make
+ls *aaa*
+ls | grep aaa
+dpkg-query -L (name of package)
+espeak
