@@ -1,0 +1,31 @@
+
+Getting started
+---------------
+
+### Arduino IDE
+
+Get it [here](http://arduino.cc/en/Main/Software) or use [homebrew-cask](https://github.com/phinze/homebrew-cask):
+
+```
+$ brew cask install arduino
+```
+
+### Write an example
+
+Something like [Blink](http://arduino.cc/en/Tutorial/Blink).
+Arduino Duemilanove has built-in LED attached on pin 13 so you don't need to plug in another.
+
+### Compile
+
+Hit compile button.
+
+### Upload
+
+In Arduino *Tool* menu change the following settings:
+
+* Board.  Example: Arduino Duemilanove or Diecimila.
+* Processor.  Check the largest chip on your board for processor name.  Example: ATmega328.
+* Port.  If you use USB, it should be something with *usbserial*.
+    * If you use Arduino Duemilanove on Mac OS X, you will need [FTDI USB driver](http://www.ftdichip.com/Drivers/VCP.htm).
+
+
