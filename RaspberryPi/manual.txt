@@ -19,6 +19,9 @@ VNC client for mac: http://sourceforge.net/projects/cotvnc/
 Connect to Mac through ethernet
 http://nathanhfox.com/2013/07/31/configuring-the-raspberry-pi-as-a-headless-ethernet-to-computer-tether-w-internet-sharing-to-macbook-pro/
 
+Sharing internet for Pi
+http://www.stephenwhite.eu/index.php/post/11/Raspberry+Pi+Internet+via+Mac
+
 ########################################################
 For X window on mac (works like a charm)
 
